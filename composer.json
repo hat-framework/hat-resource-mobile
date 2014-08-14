@@ -1,9 +1,9 @@
 {
-    "name": "hatframework/resources/mobile",
+    "name": "hatframework/hat-resource-mobile",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/hat-framework/resources/mobile",
+    "homepage": "https://github.com/hat-framework/hat-resource-mobile",
     "license": "MIT",
     "authors": [
         {
